@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/add_two_numbers.dir/main.cpp.o  -o add_two_numbers 
