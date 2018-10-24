@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/simplify_path.dir/main.cpp.o  -o simplify_path 
