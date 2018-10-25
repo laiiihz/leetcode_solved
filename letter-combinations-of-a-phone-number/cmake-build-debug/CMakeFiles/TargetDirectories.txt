@@ -1,0 +1,3 @@
+/home/laihz/CLionProjects/leetcode/letter-combinations-of-a-phone-number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/laihz/CLionProjects/leetcode/letter-combinations-of-a-phone-number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/laihz/CLionProjects/leetcode/letter-combinations-of-a-phone-number/cmake-build-debug/CMakeFiles/letter_combinations_of_a_phone_number.dir
