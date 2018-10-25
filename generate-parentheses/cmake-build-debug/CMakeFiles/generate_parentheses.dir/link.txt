@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/generate_parentheses.dir/main.cpp.o  -o generate_parentheses 
