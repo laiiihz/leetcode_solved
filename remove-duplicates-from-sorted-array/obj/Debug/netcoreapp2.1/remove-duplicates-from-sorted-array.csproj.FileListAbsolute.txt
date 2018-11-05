@@ -1,0 +1,11 @@
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/bin/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.deps.json
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/bin/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.runtimeconfig.json
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/bin/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.runtimeconfig.dev.json
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/bin/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.dll
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/bin/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.pdb
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/obj/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.csprojAssemblyReference.cache
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/obj/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.csproj.CoreCompileInputs.cache
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/obj/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.AssemblyInfoInputs.cache
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/obj/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.AssemblyInfo.cs
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/obj/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.dll
+/home/laihz/gitRepo/leetcode_solved/remove-duplicates-from-sorted-array/obj/Debug/netcoreapp2.1/remove-duplicates-from-sorted-array.pdb
