@@ -1,0 +1,11 @@
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/bin/Debug/netcoreapp2.1/swap-nodes-in-pairs.deps.json
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/bin/Debug/netcoreapp2.1/swap-nodes-in-pairs.runtimeconfig.json
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/bin/Debug/netcoreapp2.1/swap-nodes-in-pairs.runtimeconfig.dev.json
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/bin/Debug/netcoreapp2.1/swap-nodes-in-pairs.dll
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/bin/Debug/netcoreapp2.1/swap-nodes-in-pairs.pdb
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/obj/Debug/netcoreapp2.1/swap-nodes-in-pairs.csprojAssemblyReference.cache
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/obj/Debug/netcoreapp2.1/swap-nodes-in-pairs.csproj.CoreCompileInputs.cache
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/obj/Debug/netcoreapp2.1/swap-nodes-in-pairs.AssemblyInfoInputs.cache
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/obj/Debug/netcoreapp2.1/swap-nodes-in-pairs.AssemblyInfo.cs
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/obj/Debug/netcoreapp2.1/swap-nodes-in-pairs.dll
+/home/laihz/gitRepo/leetcode_solved/swap-nodes-in-pairs/obj/Debug/netcoreapp2.1/swap-nodes-in-pairs.pdb
