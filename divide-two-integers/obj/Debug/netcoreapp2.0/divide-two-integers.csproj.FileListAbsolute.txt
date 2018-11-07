@@ -1,0 +1,10 @@
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/bin/Debug/netcoreapp2.0/divide-two-integers.deps.json
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/bin/Debug/netcoreapp2.0/divide-two-integers.runtimeconfig.json
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/bin/Debug/netcoreapp2.0/divide-two-integers.runtimeconfig.dev.json
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/bin/Debug/netcoreapp2.0/divide-two-integers.dll
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/bin/Debug/netcoreapp2.0/divide-two-integers.pdb
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/obj/Debug/netcoreapp2.0/divide-two-integers.csproj.CoreCompileInputs.cache
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/obj/Debug/netcoreapp2.0/divide-two-integers.AssemblyInfoInputs.cache
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/obj/Debug/netcoreapp2.0/divide-two-integers.AssemblyInfo.cs
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/obj/Debug/netcoreapp2.0/divide-two-integers.dll
+/home/laihz/gitRepo/leetcode_solved/divide-two-integers/obj/Debug/netcoreapp2.0/divide-two-integers.pdb
