@@ -6,7 +6,9 @@ namespace divide_two_integers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Solution solution=new Solution();
+            int a=solution.Divide(2147483647,2);
+            Console.WriteLine(a);
         }
     }
 }
