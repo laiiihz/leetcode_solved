@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Document\\vscodeRepo\\leetcode_solved\\search-insert-position\\search-insert-position.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

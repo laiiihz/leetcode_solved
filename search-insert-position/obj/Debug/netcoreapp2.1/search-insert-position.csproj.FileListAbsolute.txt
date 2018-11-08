@@ -1,0 +1,11 @@
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\bin\Debug\netcoreapp2.1\search-insert-position.deps.json
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\bin\Debug\netcoreapp2.1\search-insert-position.runtimeconfig.json
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\bin\Debug\netcoreapp2.1\search-insert-position.runtimeconfig.dev.json
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\bin\Debug\netcoreapp2.1\search-insert-position.dll
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\bin\Debug\netcoreapp2.1\search-insert-position.pdb
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\obj\Debug\netcoreapp2.1\search-insert-position.csprojAssemblyReference.cache
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\obj\Debug\netcoreapp2.1\search-insert-position.csproj.CoreCompileInputs.cache
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\obj\Debug\netcoreapp2.1\search-insert-position.AssemblyInfoInputs.cache
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\obj\Debug\netcoreapp2.1\search-insert-position.AssemblyInfo.cs
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\obj\Debug\netcoreapp2.1\search-insert-position.dll
+D:\Document\vscodeRepo\leetcode_solved\search-insert-position\obj\Debug\netcoreapp2.1\search-insert-position.pdb
