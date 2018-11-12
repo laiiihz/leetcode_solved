@@ -1,0 +1,11 @@
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\bin\Debug\netcoreapp2.1\valid-sudoku.deps.json
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\bin\Debug\netcoreapp2.1\valid-sudoku.runtimeconfig.json
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\bin\Debug\netcoreapp2.1\valid-sudoku.runtimeconfig.dev.json
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\bin\Debug\netcoreapp2.1\valid-sudoku.dll
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\bin\Debug\netcoreapp2.1\valid-sudoku.pdb
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\obj\Debug\netcoreapp2.1\valid-sudoku.csprojAssemblyReference.cache
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\obj\Debug\netcoreapp2.1\valid-sudoku.csproj.CoreCompileInputs.cache
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\obj\Debug\netcoreapp2.1\valid-sudoku.AssemblyInfoInputs.cache
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\obj\Debug\netcoreapp2.1\valid-sudoku.AssemblyInfo.cs
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\obj\Debug\netcoreapp2.1\valid-sudoku.dll
+D:\Document\vscodeRepo\leetcode_solved\valid-sudoku\obj\Debug\netcoreapp2.1\valid-sudoku.pdb
